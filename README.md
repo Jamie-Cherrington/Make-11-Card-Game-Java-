@@ -1,2 +1,2 @@
 # Make-11-Card-Game-Java-
-Make 11 card game built Using Java
+A make 11 card game that is solo player, the game deals shuffled cards and the player plays against the computer to make 11. Each time the player wins a round a point is awarded and the card that was placed in gets replaced from the deck of cards the computer deals. The game also features a highscore leaderboard that keeps and displays a collection of all previous high scores. If the player can not "Make 11" they can play a card as long as it's the same suit,this allows the game to continue but no points are awarded. If the player can not make 11 or has the same suit of cards the game is ends, resulting in the players score being displayed.
